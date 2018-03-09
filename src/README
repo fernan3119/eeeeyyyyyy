@@ -1,0 +1,9 @@
+To run the Java Application follow this steps:
+
+1) Download the zip.
+2) Extract the the zip to a folder.
+3) Import that project to Eclipse.
+4) Do a right click on the folder in eclipse, and press Run As Java Application.
+5) Done.
+
+PD I try to find out how to run the application from the terminal, but I can't.
